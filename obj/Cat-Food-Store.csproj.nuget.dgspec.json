@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/Cat-Food-Store.csproj": {}
+  },
+  "projects": {
+    "/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/Cat-Food-Store.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/Cat-Food-Store.csproj",
+        "projectName": "Cat-Food-Store",
+        "projectPath": "/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/Cat-Food-Store.csproj",
+        "packagesPath": "/Users/austinburke/.nuget/packages/",
+        "outputPath": "/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/austinburke/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

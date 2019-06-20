@@ -1,0 +1,11 @@
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/bin/Debug/netcoreapp2.2/Cat-Food-Store.deps.json
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/bin/Debug/netcoreapp2.2/Cat-Food-Store.runtimeconfig.json
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/bin/Debug/netcoreapp2.2/Cat-Food-Store.runtimeconfig.dev.json
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/bin/Debug/netcoreapp2.2/Cat-Food-Store.dll
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/bin/Debug/netcoreapp2.2/Cat-Food-Store.pdb
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.csprojAssemblyReference.cache
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.csproj.CoreCompileInputs.cache
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.AssemblyInfoInputs.cache
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.AssemblyInfo.cs
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.dll
+/Users/austinburke/Development/Courses/C-sharp/treehouse/Cat-Food-Store/obj/Debug/netcoreapp2.2/Cat-Food-Store.pdb
