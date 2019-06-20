@@ -5,16 +5,16 @@ namespace Cat_Food_Store
   class Program
   {
 
-    static void Ask(string question)
+    static string Ask(string question)
     {
-      Console.WriteLine(question);
-      string answer = Console.ReadLine();
-      Console.WriteLine(answer);
+      Console.Write(question);
+      return Console.ReadLine();
     }
     static void Main(string[] args)
     {
       Console.WriteLine("Welcome to the cat food store!");
-      Ask("How many cans are you ordering?");
+      string entry = Ask("How many cans are you ordering?");
+      Console.WriteLine(entry);
     }
   }
 }
